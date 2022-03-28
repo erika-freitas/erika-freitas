@@ -1,7 +1,7 @@
 ## :face_in_clouds: About me
 
 - :wave: Hi, I’m Erika and I'm a developer in development!
-- :eyes: I’m interested in front-end
+- :eyes: I’m interested in front-end and back-end
 - :seedling: I’m currently learning JavaScript
 - :sewing_needle: I like to cross-stitch in my free time
 - :rainbow_flag: My pronouns are she/her
