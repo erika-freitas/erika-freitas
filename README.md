@@ -1,22 +1,41 @@
 ## :face_in_clouds: About me
 
-- :wave: Hi, I’m Erika and I'm a developer in development!
-- :eyes: I’m interested in front-end and back-end
-- :seedling: I’m currently learning JavaScript
-- :sewing_needle: I like to cross-stitch in my free time
-- :rainbow_flag: My pronouns are she/her
-- :brazil: Sad & Brazilian
+- 👋 Hi, I’m Erika and I'm a developer in development!
+- 👀 I’m interested in front-end and back-end
+- 🌱 I’m currently learning JavaScript
+- 🧵 I like to cross-stitch in my free time
+- 🏳️‍🌈 My pronouns are she/her
+- 🇧🇷 Sad & Brazilian
 
-![stats](https://github-readme-stats.vercel.app/api?username=erika-freitas&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&line_height=27)
+#### Utility belt:
+<div style="display: inline_block"><br>
+  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">-->
+</div>
 
-## :toolbox: Utility belt
+#### Other stuff:
+<div style="display: inline_block"><br>
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
 
-![html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![js](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![adobexd](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobexd)
+#### Let's connect!
+<div>
+  <a href="https://www.linkedin.com/in/erikafreitas/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erika-freitas&show_icons=true&theme=nightowl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-freitas&layout=compact&theme=nightowl">
+</div>
 
 <!---
 erika-freitas/erika-freitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
