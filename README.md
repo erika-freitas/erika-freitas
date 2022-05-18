@@ -34,7 +34,7 @@
 
 ##
 
-<div style="display: flex; gap: 8px">
+<div style="display: flex">
   <img height="180em" alt="status github" src="https://github-readme-stats.vercel.app/api?username=erika-freitas&show_icons=true&theme=nightowl&hide_border=true">
   <img height="180em" alt="status top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-freitas&layout=compact&theme=nightowl&hide_border=true">
 </div>
