@@ -19,22 +19,24 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="adobe xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
+  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
 #### Let's connect!
 <div>
   <a href="https://www.linkedin.com/in/erikafreitas/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erika-freitas&show_icons=true&theme=nightowl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-freitas&layout=compact&theme=nightowl">
+  <img height="180em" alt="status github" src="https://github-readme-stats.vercel.app/api?username=erika-freitas&show_icons=true&theme=nightowl">
+  <img height="180em" alt="status top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erika-freitas&layout=compact&theme=nightowl">
 </div>
 
 <!---
