@@ -1,7 +1,6 @@
 ## :face_in_clouds: About me
 
 - 👋 Hi, I’m Erika and I'm a developer in development!
-- 👀 I’m interested in front-end and back-end
 - 🌱 I’m currently learning JavaScript
 - 🧵 I like to cross-stitch in my free time
 - 🏳️‍🌈 My pronouns are she/her
