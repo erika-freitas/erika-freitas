@@ -1,6 +1,6 @@
 ## :face_in_clouds: About me
 
-- 👋 Hi, I’m Erika and I'm a developer in development!
+- 👋 Hi, I’m Erika! UX/UI designer and a developer in development!
 - 🌱 I’m currently learning JavaScript
 - 🧵 I like to cross-stitch in my free time
 - 🏳️‍🌈 My pronouns are she/her
